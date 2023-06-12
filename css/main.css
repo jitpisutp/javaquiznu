@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v11_194 {
+    width: 100%;
+    height: 1080px;
+    background: url("img/logo_csit.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 10px;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v3_14 {
+    width: 100%;
+    height: 1080px;
+    background: url("img/Java_icon.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 10px;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v2_2 {
+    width: 100%;
+    height: 1191px;
+    background: rgba(223,233,236,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .name {
+    color: #fff;
+  }
+  .name {
+    color: #fff;
+  }
+  .name {
+    color: #fff;
+  }
+  .name {
+    color: #fff;
+  }
+  .name {
+    color: #fff;
+  }
+  .v4_18 {
+    width: 196px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 402px;
+    left: 373px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+  }
+  .name {
+    color: #fff;
+  }
+  .v4_14 {
+    width: 215px;
+    height: 215px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 165px;
+    left: 382px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    overflow: hidden;
+  }
+  .v4_13 {
+    width: 215px;
+    height: 120px;
+    background: url("../images/v4_13.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 201px;
+    left: 383px;
+    overflow: hidden;
+  }
+  .v2_4 {
+    width: 734px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 89px;
+    left: 595px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 40px;
+    opacity: 1;
+    text-align: left;
+  }
+  .name {
+    color: #fff;
+  }
+  
